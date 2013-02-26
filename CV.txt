@@ -214,10 +214,9 @@ Other Links
  English Blog: http://0x1f1f.wordpress.com
  Gujarati Blog: http://kartikm.wordpress.com
  Github: https://github.com/kartikm
- Gitorious: https://gitorious.org/~kartik
 
 Up-to-date copy of this CV is available at,
- https://gitorious.org/kartik/cv/blobs/master/CV.txt
+ https://raw.github.com/kartikm/cv/master/CV.txt
 
 Email me for any additional details and other formats of this CV.
 
