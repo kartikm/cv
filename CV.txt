@@ -1,0 +1,225 @@
+Kartik Babulal Mistry
+=====================
+
+ Email
+  kartik.mistry@gmail.com
+  kartik@debian.org
+
+ Birth date
+  15/09/79
+
+Summary
+-------
+ Experience of over 8.5 years in the field of software development, packaging,
+ porting, internationalization (i18n) and localization (l10n) domains.
+
+ Debian GNU/Linux Developer.
+
+ Exposure to daily system administrations and troubleshooting.
+
+ Have an experience working with various technologies and tools. Comfortable
+ in working with individual developer to large and distributed teams.
+
+Employment
+----------
+ 08th Oct, 2012 - Present:
+  credativ software (India) Pvt. Ltd. <http://credativ.in>
+  Position: Open Source Consultant
+  Location: Bangalore, India.
+
+ 15th May, 2010 - 30th Sep, 2012:
+  Nexenta Systems Inc., USA. <http://www.nexenta.com>
+  Position: Consultant Software Developer
+  Location: Work from home, Ahmedabad, India.
+
+ 13th July, 2009 - 13th May, 2010:
+  Huntington Travel <http://www.flightnetwork.com>
+  Position: Software Developer/System Engineer
+  Location: Ahmedabad, India.
+
+ 6th June, 2008 - 10th July, 2009:
+  Magnet Technologies Pvt. Ltd. <http://www.magnettechnologies.com>
+  Position: Assistant Project Manager
+  Location: Ahmedabad, India.
+
+ 29th Feb, 2008 - 23rd May, 2008:
+  Comat Technologies Pvt. Ltd. <http://www.comat.com>
+  Position: Release Manager
+  Location: Bangalore, India.
+
+ 10th May, 2004 - 27th Feb, 2008:
+  Magnet Technologies Pvt. Ltd. <http://www.magnettechnologies.com>
+  Position: Team Leader
+  Location: Mumbai, India.
+
+ 30th January, 2004 - 10th May, 2004:
+  Magnet Technologies Pvt. Ltd. <http://www.magnettechnologies.com>
+  Position: Internship and Linux trainee
+  Location: Mumbai, India.
+
+Consultant
+----------
+ 01st April, 2012 - 30th Sep, 2012:
+  Arnion Technologies Pvt. Ltd.,
+  Position: Consultant
+  Location: Ahmedabad, India.
+
+Education
+---------
+ Degree: M.C.A.
+ College: L.D. College of Engineering, Gujarat University, Ahmadabad.
+ Year: August, 2004
+
+ Degree: B.Sc.
+ Major: Physics
+ College: R.R. Mehta College of Science, North Gujarat University, Palanpur.
+ Year: April, 2000
+
+ Degree: H.S.C.
+ School: Shree Vividhlaxi Vidhyamandir, Palanpur.
+ Year: April, 1997
+
+ Degree: S.S.C.
+ School: Shree Vividhlaxi Vidhyamandir, Palanpur.
+ Year: April, 1995
+
+Skills
+------
+ 1. Operating Systems:
+    a. Linux: Packaging (Debian and based distributions), Localization, Basic
+       level of system administration, configuring and exposure to many fields
+       like programming and porting.
+    b. Mac OS X: Regular user. Familiar up to middle level. Exposure to porting,
+       configuring, system administration.
+    c. Windows: Regular user. Familiar up to middle level.
+    d. Solaris: Familiar with basic usage, Packaging and internal level
+       details as part of Nexenta/illumos.
+
+ 2. VCSs:
+    Git, Subversion, CVS, Mercurial. Advanced user of all of these. Wrote
+    many automation build and release tasks around them.
+
+ 3. Programming:
+    Dealing with many programming languages/concepts as part of Debian and
+    work. Experience are in:
+    a. C and C++
+    b. Python
+    c. Perl
+    d. Shell Scripting
+
+ 4. Misc:
+    a. Localization/Internationalization.
+    b. Office software: OpenOffice.org/Libreoffice.
+    c. Web server: Nginx, Apache: setup, configuration and minor tweaks.
+    d. Debugging: GDB, Solaris (MDB, DTrace).
+    e. Fonts: development, bug fixes.
+    f. Writing: wrote articles for 'Linux For You' magazine.
+
+Notable Projects
+----------------
+ Utkarsh Gujarati Operating System: <http://www.utkarsh.org>
+  This project was kicked off for Gujarati language localization efforts. We
+  created Live CD, custom installers for end users and special Windows CD
+  containing Free software. The project is now defunct.
+
+ GujaratiLexicon: <http://www.gujaratilexicon.com>
+  GujaratiLexicon is an effort to create lexicon resources for Gujarati
+  language. It contains cross platform Gujarati Dictionary (Java) and Gujarati
+  Spell checker (C++/Qt) along with website. The project aims to become
+  'Oxford Dictionary for Gujarati language'.
+
+  The project is continue and provides free download and access of all
+  resources. Currently, mobile applications are in development.
+
+ Bhagwadgomandal: <http://www.bhagwadgomandal.com>
+  Bhagwadgomandal is the biggest and the most prolific work in Gujarati.
+  Visionary Maharaj Bhagvadsinhji of Gondal gifted the original Bhagwadgomandal
+  to the world after 26 years of scientific and detailed work. This encyclopedic
+  dictionary is a cultural milestone of Gujarati language.
+
+ Nexenta: <http://www.nexenta.org>
+  NexentaOS (known as NCP) was openstorage platform built upon OpenSolaris and
+  Debian. After 3.x releases, it is merged into 'illumian' distribution which
+  is based on 'illumos' project. The project is now defunct.
+
+FOSS Projects
+-------------
+ Debian: Developer since August 2008, active community member, package
+ maintainer, internationalization and localization of various packages and
+ installer (D-I) for Gujarati language. Maintainer/co-maintainer of around ~40
+ packages for Debian project.
+
+ Packages QA Page: <http://qa.debian.org/developer.php?login=Kartik+Mistry>
+
+ Localization Projects: Debian-Installer, KDE, Tuxpaint, Wikipedia.
+
+ aspell-gu: Gujarati Aspell Dictionary; Upstream author, maintainer.
+
+ fortune-debian-hints: Fortunes Hints for Debian; Upstream author, maintainer.
+
+ Fonts: Aakar/Rekha/Kalapi Gujarati fonts maintainer and upstream.
+
+ Other projects: illumos (Bug fixes, documentation),
+                 Wikimedia (Contributor: Gujarati/English Wikipedia, Commons),
+                 SixthSense (Community and project management, code refactor).
+
+Presentations and Talks
+-----------------------
+ 'Utkarsh and Gujarati Localization' Indic Developer Meet 2004, HBCSE, Mumbai.
+ 'Mono and Localization' Indic Developer Meet 2005, HBCSE, Mumbai.
+ 'Mono and Localization' foss.in 2005, Bangalore.
+ 'How to become 3rd Indian Debian Developer' foss.in 2006, Bangalore.
+ 'Building quality Debian packages' GNUNify 2007, Pune.
+ 'Debian-IN Project' Freed.in, September 2007, New Delhi.
+ 'Dealing with Indic issues in Debian and Ubuntu' foss.in 2007, Bangalore.
+ 'Mozilla Localization' foss.in 2007, Bangalore.
+ 'Debian Packaging Workshop' foss.in 2007, Bangalore.
+ 'Build Your Own OO.org Dictionary/Spell-checkers' foss.in 2007, Bangalore.
+ 'How to contribute to OpenSource project' FOSSMeet@NITC, Apr 2008, Calicut.
+ 'GL: Past, Present and Future' BarCampAhmedabad 2, Aug 2008, Ahmedabad.
+ 'Status of Gujarati l10n', Indic Developers Meet, May 2009, Pune.
+ 'Debian Workout', Foss.in, Dec 2009, Bangalore.
+ 'Unicode and Open Web', Free Culture Road Show, CEPT, Dec 2009, Ahmedabad.
+ 'Various sessions on Debian Development', Mini DebConf, COEP, Aug 2010, Pune.
+ 'Introduction to Linux' Oct 2010, College of Diploma Studies, Mehsana.
+ 'What is Debian?', MindBend 2011, SVNIT College, February 2011, Surat.
+ 'KDE: Localization foo', conf.kde.in, March 2011, Bangalore.
+ 'Various sessions on Debian Development', MiniDebConf, Nov 2011, NMAIT, Nitte.
+ 'Gujarati and Social Media', Gujarati Sahitya Parishad, Oct 2012, Ahmedabad.
+ 'Debian Ecosystem', SVIT, January 2013, Bengalore.
+
+Published Articles
+------------------
+ For "Linux For You" magazine:
+  Introduction to Mono (Series of 6 articles) co-authored with others, 2005
+  Book Review: Write Portable Code, 2006
+  Nautilus File Manager, September 2006
+  Building Debian Packages, August 2007
+  Book Review: Debian System, December 2007
+  Building Debian Packages, April 2009
+
+
+Awards/Certification etc
+------------------------
+ Employee of the month: November 2006, October 2008.
+ Sarai FLOSS Fellowship: 2008, http://www.sarai.net/fellowships/floss
+
+References
+----------
+ Available at: https://www.linkedin.com/in/kartikmistry
+ More references available upon request.
+
+Other Links
+-----------
+ English Blog: http://0x1f1f.wordpress.com
+ Gujarati Blog: http://kartikm.wordpress.com
+ Github: https://github.com/kartikm
+ Gitorious: https://gitorious.org/~kartik
+
+Up-to-date copy of this CV is available at,
+ https://gitorious.org/kartik/cv/blobs/master/CV.txt
+
+Email me for any additional details and other formats of this CV.
+
+Kartik Mistry
+Last Updated: Fri, 15 Feb 2013 19:11:07 +0530
