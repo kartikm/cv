@@ -1,12 +1,8 @@
 Kartik Babulal Mistry
-=====================
+---------------------
 
- Email
-  kartik.mistry@gmail.com
-  kartik@debian.org
-
- Birth date
-  15/09/79
+Email: kartik.mistry@gmail.com,
+       kartik@debian.org
 
 Summary
 -------
@@ -20,8 +16,11 @@ Summary
  Have an experience working with various technologies and tools. Comfortable
  in working with individual developer to large and distributed teams.
 
-Employment
-----------
+Work Experience
+===============
+
+Full Time
+---------
  08th Oct, 2012 - Present:
   credativ software (India) Pvt. Ltd. <http://credativ.in>
   Position: Open Source Consultant
@@ -115,8 +114,8 @@ Skills
     e. Fonts: development, bug fixes.
     f. Writing: wrote articles for 'Linux For You' magazine.
 
-Notable Projects
-----------------
+Projects
+--------
  Utkarsh Gujarati Operating System: <http://www.utkarsh.org>
   This project was kicked off for Gujarati language localization efforts. We
   created Live CD, custom installers for end users and special Windows CD
@@ -146,7 +145,7 @@ FOSS Projects
 -------------
  Debian: Developer since August 2008, active community member, package
  maintainer, internationalization and localization of various packages and
- installer (D-I) for Gujarati language. Maintainer/co-maintainer of around ~40
+ installer (D-I) for Gujarati language. Maintainer/co-maintainer of around 45
  packages for Debian project.
 
  Packages QA Page: <http://qa.debian.org/developer.php?login=Kartik+Mistry>
@@ -198,7 +197,6 @@ Published Articles
   Book Review: Debian System, December 2007
   Building Debian Packages, April 2009
 
-
 Awards/Certification etc
 ------------------------
  Employee of the month: November 2006, October 2008.
@@ -221,4 +219,4 @@ Up-to-date copy of this CV is available at,
 Email me for any additional details and other formats of this CV.
 
 Kartik Mistry
-Last Updated: Fri, 15 Feb 2013 19:11:07 +0530
+Last Updated: Thu, 21 Mar 2013 10:25:32 +0530
