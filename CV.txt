@@ -4,10 +4,12 @@ Kartik Babulal Mistry
 Email: kartik.mistry@gmail.com,
        kartik@debian.org
 
+Mobile: +919036361224
+
 Summary
 -------
- Experience of over 8.5 years in the field of software development, packaging,
- porting, internationalization (i18n) and localization (l10n) domains.
+ Experience of 9 years in the fields of software development, packaging,
+ porting, internationalization and localization domains.
 
  Debian GNU/Linux Developer.
 
@@ -56,11 +58,11 @@ Full Time
   Position: Internship and Linux trainee
   Location: Mumbai, India.
 
-Consultant
-----------
+As Consultant
+-------------
  01st April, 2012 - 30th Sep, 2012:
   Arnion Technologies Pvt. Ltd.,
-  Position: Consultant
+  Position: Consultant software developer
   Location: Ahmedabad, India.
 
 Education
@@ -109,7 +111,7 @@ Skills
  4. Misc:
     a. Localization/Internationalization.
     b. Office software: OpenOffice.org/Libreoffice.
-    c. Web server: Nginx, Apache: setup, configuration and minor tweaks.
+    c. Web: HTML, Nginx, Apache: setup, configuration and minor tweaks.
     d. Debugging: GDB, Solaris (MDB, DTrace).
     e. Fonts: development, bug fixes.
     f. Writing: wrote articles for 'Linux For You' magazine.
@@ -160,7 +162,7 @@ FOSS Projects
 
  Other projects: illumos (Bug fixes, documentation),
                  Wikimedia (Contributor: Gujarati/English Wikipedia, Commons),
-                 SixthSense (Community and project management, code refactor).
+                 SixthSense (Community and project management, code refactoring).
 
 Presentations and Talks
 -----------------------
@@ -185,7 +187,7 @@ Presentations and Talks
  'KDE: Localization foo', conf.kde.in, March 2011, Bangalore.
  'Various sessions on Debian Development', MiniDebConf, Nov 2011, NMAIT, Nitte.
  'Gujarati and Social Media', Gujarati Sahitya Parishad, Oct 2012, Ahmedabad.
- 'Debian Ecosystem', SVIT, January 2013, Bengalore.
+ 'Debian Ecosystem', SVIT, January 2013, Bangalore.
 
 Published Articles
 ------------------
@@ -219,4 +221,4 @@ Up-to-date copy of this CV is available at,
 Email me for any additional details and other formats of this CV.
 
 Kartik Mistry
-Last Updated: Mon, 25 Mar 2013 10:21:59 +0530
+Last Updated: Mon, 01 Apr 2013 01:00:00 +0530
