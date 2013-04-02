@@ -1,22 +1,24 @@
 Kartik Babulal Mistry
 ---------------------
 
-Email: kartik.mistry@gmail.com,
-       kartik@debian.org
+Contact
+-------
+ Email: kartik.mistry@gmail.com,
+        kartik@debian.org
 
-Mobile: +919036361224
+ Mobile: +919036361224
+
+Career Objective
+----------------
+ To work on challenging projects leading to expansion of my capabilities as
+ well as delivering value to the organization.
 
 Summary
 -------
- Experience of 9 years in the fields of software development, packaging,
- porting, internationalization and localization domains.
-
- Debian GNU/Linux Developer.
-
- Exposure to daily system administrations and troubleshooting.
-
- Have an experience working with various technologies and tools. Comfortable
- in working with individual developer to large and distributed teams.
+ Close to a decade of experience in system and network administration,
+ software engineering with small to large teams, packaging and porting of
+ software tools and applications and internationalization and localization
+ efforts.
 
 Work Experience
 ===============
@@ -65,36 +67,35 @@ As Consultant
   Position: Consultant software developer
   Location: Ahmedabad, India.
 
-Education
----------
- Degree: M.C.A.
- College: L.D. College of Engineering, Gujarat University, Ahmadabad.
- Year: August, 2004
+Educational Qualifications
+--------------------------
+ Master of Computer Applications:
+ L.D. College of Engineering, Gujarat University, Ahmadabad.
+ August, 2004
 
- Degree: B.Sc.
- Major: Physics
- College: R.R. Mehta College of Science, North Gujarat University, Palanpur.
- Year: April, 2000
+ Bachelor of Science (Physics):
+ R.R. Mehta College of Science, North Gujarat University, Palanpur.
+ April, 2000
 
- Degree: H.S.C.
- School: Shree Vividhlaxi Vidhyamandir, Palanpur.
- Year: April, 1997
+ Higher Secondary School Certificate:
+ Shree Vividhlaxi Vidhyamandir, Palanpur.
+ April, 1997
 
- Degree: S.S.C.
- School: Shree Vividhlaxi Vidhyamandir, Palanpur.
- Year: April, 1995
+ Secondary School Certificate:
+ Shree Vividhlaxi Vidhyamandir, Palanpur.
+ April, 1995
 
 Skills
 ------
  1. Operating Systems:
-    a. Linux: Packaging (Debian and based distributions), Localization, Basic
-       level of system administration, configuring and exposure to many fields
-       like programming and porting.
-    b. Mac OS X: Regular user. Familiar up to middle level. Exposure to porting,
-       configuring, system administration.
-    c. Windows: Regular user. Familiar up to middle level.
-    d. Solaris: Familiar with basic usage, Packaging and internal level
-       details as part of Nexenta/illumos.
+    a. Linux: Packaging (Debian and based distributions), localization, system
+       administration, configuring and exposure to many fields like programming
+       and porting.
+    b. Mac OS X: Regular user. Familiar up to intermiddiate level. Exposure to
+       porting, configuring and system administration.
+    c. Windows: Familiar up to intermiddiate level.
+    d. Solaris: Familiar with basic system administration and tools usages,
+       packaging and internal level details as part of Nexenta/illumos projects.
 
  2. VCSs:
     Git, Subversion, CVS, Mercurial. Advanced user of all of these. Wrote
@@ -106,7 +107,7 @@ Skills
     a. C and C++
     b. Python
     c. Perl
-    d. Shell Scripting
+    d. bash and zsh shell scripting
 
  4. Misc:
     a. Localization/Internationalization.
@@ -114,7 +115,7 @@ Skills
     c. Web: HTML, Nginx, Apache: setup, configuration and minor tweaks.
     d. Debugging: GDB, Solaris (MDB, DTrace).
     e. Fonts: development, bug fixes.
-    f. Writing: wrote articles for 'Linux For You' magazine.
+    f. Technical Writing: wrote articles for 'Linux For You' magazine.
 
 Projects
 --------
@@ -221,4 +222,4 @@ Up-to-date copy of this CV is available at,
 Email me for any additional details and other formats of this CV.
 
 Kartik Mistry
-Last Updated: Mon, 01 Apr 2013 01:00:00 +0530
+Last Updated: Tue, 02 Apr 2013 15:12:19 +0530
