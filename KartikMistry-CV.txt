@@ -109,10 +109,10 @@ Skills
     c. Perl
     d. bash and zsh shell scripting
 
- 4. Misc:
+ 4. Other:
     a. Localization/Internationalization.
     b. Office software: OpenOffice.org/Libreoffice.
-    c. Web: HTML, Nginx, Apache: setup, configuration and minor tweaks.
+    c. Web Technologies: HTML, PHP. Nginx, Apache: setup and configuration.
     d. Debugging: GDB, Solaris (MDB, DTrace).
     e. Fonts: development, bug fixes.
     f. Technical Writing: wrote articles for 'Linux For You' magazine.
@@ -217,9 +217,9 @@ Other Links
  Github: https://github.com/kartikm
 
 Up-to-date copy of this CV is available at,
- https://raw.github.com/kartikm/cv/master/CV.txt
+ https://raw.github.com/kartikm/cv/master/KartikMistry-CV.txt
 
 Email me for any additional details and other formats of this CV.
 
 Kartik Mistry
-Last Updated: Tue, 02 Apr 2013 15:12:19 +0530
+Last Updated: Sun, 14 Apr 2013 10:03:10 +0530

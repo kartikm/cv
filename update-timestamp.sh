@@ -1,5 +1,5 @@
 #!/bin/sh
 
-sed '$d' -i CV.txt
-echo -n "Last Updated: " >> CV.txt
-date -R >> CV.txt
+sed '$d' -i KartikMistry-CV.txt
+echo -n "Last Updated: " >> KartikMistry-CV.txt
+date -R >> KartikMistry-CV.txt
