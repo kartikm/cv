@@ -1,8 +1,8 @@
 Kartik Babulal Mistry
-=====================
+---------------------
 
 Contact
--------
+=======
  Email: kartik.mistry@gmail.com, kartik@debian.org
 
  Mobile: +919036361224
@@ -10,22 +10,22 @@ Contact
  Jabber: kartik.mistry@gmail.com
 
 Career Objective
-----------------
+================
  To work on challenging projects leading to expansion of my capabilities as
  well as delivering value to the organization.
 
 Summary
--------
+=======
  Close to a decade of experience in system and network administration,
  software engineering with small to large teams, packaging and porting of
  software tools and applications and internationalization and localization
  efforts.
 
 Work Experience
-===============
+---------------
 
 Full Time
----------
+=========
  08th Oct, 2012 - Present:
   credativ software (India) Pvt. Ltd. <http://credativ.in>
   Position: Open Source Consultant
@@ -62,14 +62,14 @@ Full Time
   Location: Mumbai, India.
 
 As Consultant
--------------
+=============
  01st April, 2012 - 30th Sep, 2012:
   Arnion Technologies Pvt. Ltd.,
   Position: Consultant software developer
   Location: Ahmedabad, India.
 
 Education
-=========
+---------
  Master of Computer Applications:
  L.D. College of Engineering, Gujarat University, Ahmadabad.
  August, 2004
@@ -87,14 +87,17 @@ Education
  April, 1995
 
 Skills
-======
+------
  1. Operating Systems:
     a. Linux: Packaging (Debian and based distributions), localization, system
        administration, configuring and exposure to many fields like programming
        and porting.
+
     b. Mac OS X: Regular user. Familiar up to intermiddiate level. Exposure to
        porting, configuring and system administration.
+
     c. Windows: Familiar up to intermiddiate level.
+
     d. Solaris: Familiar with basic system administration and tools usages,
        packaging and internal level details as part of Nexenta/illumos projects.
 
@@ -105,21 +108,21 @@ Skills
  3. Programming:
     Dealing with many programming languages/concepts as part of Debian and
     work. Experience are in:
-    a. C and C++
-    b. Python
-    c. Perl
-    d. bash and zsh shell scripting
+     a. C and C++
+     b. Python
+     c. Perl
+     d. bash and zsh shell scripting
 
  4. Other:
-    a. Localization/Internationalization.
-    b. Office software: OpenOffice.org/Libreoffice.
-    c. Web Technologies: HTML, PHP. Nginx, Apache: setup and configuration.
-    d. Debugging: GDB, Solaris (MDB, DTrace).
-    e. Fonts: development, bug fixes.
-    f. Technical Writing: wrote articles for 'Linux For You' magazine.
+     a. Localization/Internationalization.
+     b. Office software: OpenOffice.org/Libreoffice.
+     c. Web Technologies: HTML, PHP. Nginx, Apache: setup and configuration.
+     d. Debugging: GDB, Solaris (MDB, DTrace).
+     e. Fonts: development, bug fixes.
+     f. Technical Writing: wrote articles for 'Linux For You' magazine.
 
 Projects
-========
+--------
  * Utkarsh Gujarati Operating System: <http://www.utkarsh.org>
    This project was kicked off for Gujarati language localization efforts. We
    created Live CD, custom installers for end users and special Windows CD
@@ -146,7 +149,7 @@ Projects
    is based on 'illumos' project. The project is now defunct.
 
 FOSS Projects
-=============
+-------------
  * Debian:
    - Developer since August 2008.
    - Active community member, package maintainer, internationalization and
@@ -171,7 +174,7 @@ FOSS Projects
    - SixthSense (Community and project management, code refactoring).
 
 Presentations and Talks
-=======================
+-----------------------
  * 'Utkarsh and Gujarati Localization' Indic Developer Meet 2004, HBCSE, Mumbai.
  * 'Mono and Localization' Indic Developer Meet 2005, HBCSE, Mumbai.
  * 'Mono and Localization' foss.in 2005, Bangalore.
@@ -196,7 +199,7 @@ Presentations and Talks
  * 'Debian Ecosystem', SVIT, January 2013, Bangalore.
 
 Published Articles
-==================
+------------------
  For "Linux For You" magazine:
  * Introduction to Mono (Series of 6 articles) co-authored with others, 2005
  * Book Review: Write Portable Code, 2006
@@ -206,16 +209,16 @@ Published Articles
  * Building Debian Packages, April 2009
 
 Awards/Certification etc
-========================
+------------------------
  * Employee of the month: November 2006, October 2008.
  * Sarai FLOSS Fellowship: 2008, http://www.sarai.net/fellowships/floss
 
 References
-==========
+----------
  Available at: <https://www.linkedin.com/in/kartikmistry>
 
 Links
-=====
+-----
  * English Blog: <http://0x1f1f.wordpress.com>
  * Gujarati Blog: <http://kartikm.wordpress.com>
  * Github: <https://github.com/kartikm>
