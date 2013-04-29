@@ -1,9 +1,7 @@
 TODO
 ----
-
-* http://steve-yegge.blogspot.com/2007/09/ten-tips-for-slightly-less-awful-resume.html
-* Provide latex format.
-* Provide automatic PDF generation.
+* See: <http://steve-yegge.blogspot.com/2007/09/ten-tips-for-slightly-less-awful-resume.html>
+* Provide other formats: MarkDown, PDF, latex
 * Add cover letter.
 * Add all projects and arrange Projects section.
 * Add <real> references.
