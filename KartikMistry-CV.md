@@ -1,12 +1,13 @@
 Kartik Babulal Mistry
----------------------
+=====================
 
 Contact
 -------
- Email: kartik.mistry@gmail.com,
-        kartik@debian.org
+ Email: kartik.mistry@gmail.com, kartik@debian.org
 
  Mobile: +919036361224
+
+ Jabber: kartik.mistry@gmail.com
 
 Career Objective
 ----------------
@@ -67,8 +68,8 @@ As Consultant
   Position: Consultant software developer
   Location: Ahmedabad, India.
 
-Educational Qualifications
---------------------------
+Education
+=========
  Master of Computer Applications:
  L.D. College of Engineering, Gujarat University, Ahmadabad.
  August, 2004
@@ -86,7 +87,7 @@ Educational Qualifications
  April, 1995
 
 Skills
-------
+======
  1. Operating Systems:
     a. Linux: Packaging (Debian and based distributions), localization, system
        administration, configuring and exposure to many fields like programming
@@ -118,106 +119,109 @@ Skills
     f. Technical Writing: wrote articles for 'Linux For You' magazine.
 
 Projects
---------
- Utkarsh Gujarati Operating System: <http://www.utkarsh.org>
-  This project was kicked off for Gujarati language localization efforts. We
-  created Live CD, custom installers for end users and special Windows CD
-  containing Free software. The project is now defunct.
+========
+ * Utkarsh Gujarati Operating System: <http://www.utkarsh.org>
+   This project was kicked off for Gujarati language localization efforts. We
+   created Live CD, custom installers for end users and special Windows CD
+   containing Free software. The project is now defunct.
 
- GujaratiLexicon: <http://www.gujaratilexicon.com>
-  GujaratiLexicon is an effort to create lexicon resources for Gujarati
-  language. It contains cross platform Gujarati Dictionary (Java) and Gujarati
-  Spell checker (C++/Qt) along with website. The project aims to become
-  'Oxford Dictionary for Gujarati language'.
+ * GujaratiLexicon: <http://www.gujaratilexicon.com>
+   GujaratiLexicon is an effort to create lexicon resources for Gujarati
+   language. It contains cross platform Gujarati Dictionary (Java) and Gujarati
+   Spell checker (C++/Qt) along with website. The project aims to become
+   'Oxford Dictionary for Gujarati language'.
 
-  The project is continue and provides free download and access of all
-  resources. Currently, mobile applications are in development.
+   The project is continue and provides free download and access of all
+   resources. Currently, mobile applications are in development.
 
- Bhagwadgomandal: <http://www.bhagwadgomandal.com>
-  Bhagwadgomandal is the biggest and the most prolific work in Gujarati.
-  Visionary Maharaj Bhagvadsinhji of Gondal gifted the original Bhagwadgomandal
-  to the world after 26 years of scientific and detailed work. This encyclopedic
-  dictionary is a cultural milestone of Gujarati language.
+ * Bhagwadgomandal: <http://www.bhagwadgomandal.com>
+   Bhagwadgomandal is the biggest and the most prolific work in Gujarati.
+   Visionary Maharaj Bhagvadsinhji of Gondal gifted the original Bhagwadgomandal
+   to the world after 26 years of scientific and detailed work. This encyclopedic
+   dictionary is a cultural milestone of Gujarati language.
 
- Nexenta: <http://www.nexenta.org>
-  NexentaOS (known as NCP) was openstorage platform built upon OpenSolaris and
-  Debian. After 3.x releases, it is merged into 'illumian' distribution which
-  is based on 'illumos' project. The project is now defunct.
+ * Nexenta: <http://www.nexenta.org>
+   NexentaOS (known as NCP) was openstorage platform built upon OpenSolaris and
+   Debian. After 3.x releases, it is merged into 'illumian' distribution which
+   is based on 'illumos' project. The project is now defunct.
 
 FOSS Projects
--------------
- Debian: Developer since August 2008, active community member, package
- maintainer, internationalization and localization of various packages and
- installer (D-I) for Gujarati language. Maintainer/co-maintainer of around 45
- packages for Debian project.
+=============
+ * Debian:
+   - Developer since August 2008.
+   - Active community member, package maintainer, internationalization and
+     localization of various packages and installer for Gujarati language.
+   - Maintainer/co-maintainer of around 45 packages.
+   - Packages QA Page: <http://qa.debian.org/developer.php?login=Kartik+Mistry>
 
- Packages QA Page: <http://qa.debian.org/developer.php?login=Kartik+Mistry>
+ * Localization Projects:
+   - Debian-Installer,
+   - KDE,
+   - Tuxpaint,
+   - Wikipedia.
 
- Localization Projects: Debian-Installer, KDE, Tuxpaint, Wikipedia.
+ * Upstream:
+   - aspell-gu: Gujarati Aspell Dictionary.
+   - fortune-debian-hints: Fortunes Hints for Debian.
+   - Fonts: Aakar/Rekha/Kalapi Gujarati fonts.
 
- aspell-gu: Gujarati Aspell Dictionary; Upstream author, maintainer.
-
- fortune-debian-hints: Fortunes Hints for Debian; Upstream author, maintainer.
-
- Fonts: Aakar/Rekha/Kalapi Gujarati fonts maintainer and upstream.
-
- Other projects: illumos (Bug fixes, documentation),
-                 Wikimedia (Contributor: Gujarati/English Wikipedia, Commons),
-                 SixthSense (Community and project management, code refactoring).
+ * Other projects:
+   - illumos (Bug fixes, documentation),
+   - Wikimedia (Contributor: Gujarati/English Wikipedia, Commons),
+   - SixthSense (Community and project management, code refactoring).
 
 Presentations and Talks
------------------------
- 'Utkarsh and Gujarati Localization' Indic Developer Meet 2004, HBCSE, Mumbai.
- 'Mono and Localization' Indic Developer Meet 2005, HBCSE, Mumbai.
- 'Mono and Localization' foss.in 2005, Bangalore.
- 'How to become 3rd Indian Debian Developer' foss.in 2006, Bangalore.
- 'Building quality Debian packages' GNUNify 2007, Pune.
- 'Debian-IN Project' Freed.in, September 2007, New Delhi.
- 'Dealing with Indic issues in Debian and Ubuntu' foss.in 2007, Bangalore.
- 'Mozilla Localization' foss.in 2007, Bangalore.
- 'Debian Packaging Workshop' foss.in 2007, Bangalore.
- 'Build Your Own OO.org Dictionary/Spell-checkers' foss.in 2007, Bangalore.
- 'How to contribute to OpenSource project' FOSSMeet@NITC, Apr 2008, Calicut.
- 'GL: Past, Present and Future' BarCampAhmedabad 2, Aug 2008, Ahmedabad.
- 'Status of Gujarati l10n', Indic Developers Meet, May 2009, Pune.
- 'Debian Workout', Foss.in, Dec 2009, Bangalore.
- 'Unicode and Open Web', Free Culture Road Show, CEPT, Dec 2009, Ahmedabad.
- 'Various sessions on Debian Development', Mini DebConf, COEP, Aug 2010, Pune.
- 'Introduction to Linux' Oct 2010, College of Diploma Studies, Mehsana.
- 'What is Debian?', MindBend 2011, SVNIT College, February 2011, Surat.
- 'KDE: Localization foo', conf.kde.in, March 2011, Bangalore.
- 'Various sessions on Debian Development', MiniDebConf, Nov 2011, NMAIT, Nitte.
- 'Gujarati and Social Media', Gujarati Sahitya Parishad, Oct 2012, Ahmedabad.
- 'Debian Ecosystem', SVIT, January 2013, Bangalore.
+=======================
+ * 'Utkarsh and Gujarati Localization' Indic Developer Meet 2004, HBCSE, Mumbai.
+ * 'Mono and Localization' Indic Developer Meet 2005, HBCSE, Mumbai.
+ * 'Mono and Localization' foss.in 2005, Bangalore.
+ * 'How to become 3rd Indian Debian Developer' foss.in 2006, Bangalore.
+ * 'Building quality Debian packages' GNUNify 2007, Pune.
+ * 'Debian-IN Project' Freed.in, September 2007, New Delhi.
+ * 'Dealing with Indic issues in Debian and Ubuntu' foss.in 2007, Bangalore.
+ * 'Mozilla Localization' foss.in 2007, Bangalore.
+ * 'Debian Packaging Workshop' foss.in 2007, Bangalore.
+ * 'Build Your Own OO.org Dictionary/Spell-checkers' foss.in 2007, Bangalore.
+ * 'How to contribute to OpenSource project' FOSSMeet@NITC, Apr 2008, Calicut.
+ * 'GL: Past, Present and Future' BarCampAhmedabad 2, Aug 2008, Ahmedabad.
+ * 'Status of Gujarati l10n', Indic Developers Meet, May 2009, Pune.
+ * 'Debian Workout', Foss.in, Dec 2009, Bangalore.
+ * 'Unicode and Open Web', Free Culture Road Show, CEPT, Dec 2009, Ahmedabad.
+ * 'Various sessions on Debian Development', Mini DebConf, COEP, Aug 2010, Pune.
+ * 'Introduction to Linux' Oct 2010, College of Diploma Studies, Mehsana.
+ * 'What is Debian?', MindBend 2011, SVNIT College, February 2011, Surat.
+ * 'KDE: Localization foo', conf.kde.in, March 2011, Bangalore.
+ * 'Various sessions on Debian Development', MiniDebConf, Nov 2011, NMAIT, Nitte.
+ * 'Gujarati and Social Media', Gujarati Sahitya Parishad, Oct 2012, Ahmedabad.
+ * 'Debian Ecosystem', SVIT, January 2013, Bangalore.
 
 Published Articles
-------------------
+==================
  For "Linux For You" magazine:
-  Introduction to Mono (Series of 6 articles) co-authored with others, 2005
-  Book Review: Write Portable Code, 2006
-  Nautilus File Manager, September 2006
-  Building Debian Packages, August 2007
-  Book Review: Debian System, December 2007
-  Building Debian Packages, April 2009
+ * Introduction to Mono (Series of 6 articles) co-authored with others, 2005
+ * Book Review: Write Portable Code, 2006
+ * Nautilus File Manager, September 2006
+ * Building Debian Packages, August 2007
+ * Book Review: Debian System, December 2007
+ * Building Debian Packages, April 2009
 
 Awards/Certification etc
-------------------------
- Employee of the month: November 2006, October 2008.
- Sarai FLOSS Fellowship: 2008, http://www.sarai.net/fellowships/floss
+========================
+ * Employee of the month: November 2006, October 2008.
+ * Sarai FLOSS Fellowship: 2008, http://www.sarai.net/fellowships/floss
 
 References
-----------
- Available at: https://www.linkedin.com/in/kartikmistry
- More references available upon request.
+==========
+ Available at: <https://www.linkedin.com/in/kartikmistry>
 
-Other Links
------------
- English Blog: http://0x1f1f.wordpress.com
- Gujarati Blog: http://kartikm.wordpress.com
- Github: https://github.com/kartikm
+Links
+=====
+ * English Blog: <http://0x1f1f.wordpress.com>
+ * Gujarati Blog: <http://kartikm.wordpress.com>
+ * Github: <https://github.com/kartikm>
 
 Up-to-date copy of this CV is available at,
- https://raw.github.com/kartikm/cv/master/KartikMistry-CV.txt
+ <https://github.com/kartikm/cv/blob/master/KartikMistry-CV.md>
 
 Email me for any additional details and other formats of this CV.
 
