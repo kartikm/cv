@@ -23,15 +23,20 @@ Summary
 Work Experience
 ===============
 
+ 01st May, 2012 - Present:
+  <Stealth Startup>
+  Position: Senior Technical Conultant
+  Location: Work from home. Mumbai, India.
+
  08th Oct, 2012 - 07th May, 2013:
   credativ software (India) Pvt. Ltd. <http://credativ.in>
-  Position: Open Source Consultant
+  Position: OpenSource Consultant
   Location: Bangalore, India.
 
  15th May, 2010 - 30th Sep, 2012:
   Nexenta Systems Inc., USA. <http://www.nexenta.com>
   Position: Consultant Software Developer
-  Location: Work from home, Ahmedabad, India.
+  Location: Work from home. Ahmedabad, India.
 
  13th July, 2009 - 13th May, 2010:
   Huntington Travel <http://www.flightnetwork.com>
