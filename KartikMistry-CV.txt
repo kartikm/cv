@@ -23,9 +23,7 @@ Summary
 Work Experience
 ===============
 
-Full Time
----------
- 08th Oct, 2012 - Present:
+ 08th Oct, 2012 - 07th May, 2013:
   credativ software (India) Pvt. Ltd. <http://credativ.in>
   Position: Open Source Consultant
   Location: Bangalore, India.
@@ -222,4 +220,4 @@ Up-to-date copy of this CV is available at,
 Email me for any additional details and other formats of this CV.
 
 Kartik Mistry
-Last Updated: Mon, 22 Apr 2013 12:28:12 +0530
+Last Updated: Wed, 08 May 2013 13:06:17 +0530
