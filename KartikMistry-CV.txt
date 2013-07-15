@@ -23,7 +23,7 @@ Summary
 Work Experience
 ===============
 
- 01st May, 2012 - Present:
+ 01st May, 2013 - Present:
   <Stealth Startup>
   Position: Senior Technical Conultant
   Location: Work from home. Mumbai, India.
@@ -225,4 +225,4 @@ Up-to-date copy of this CV is available at,
 Email me for any additional details and other formats of this CV.
 
 Kartik Mistry
-Last Updated: Wed, 08 May 2013 13:06:17 +0530
+Last Updated: Mon, 15 Jul 2013 20:46:59 +0530
