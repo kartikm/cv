@@ -1,7 +1,16 @@
 TODO
 ----
-* See: <http://steve-yegge.blogspot.com/2007/09/ten-tips-for-slightly-less-awful-resume.html>
-* Provide other formats: MarkDown, PDF, latex
+
+Formats
+-------
+* Better MarkDown format generation.
+
+CV
+--
 * Add cover letter.
-* Add all projects and arrange Projects section.
 * Add <real> references.
+* Add all projects and arrange Projects section.
+
+Misc
+----
+* http://steve-yegge.blogspot.com/2007/09/ten-tips-for-slightly-less-awful-resume.html
