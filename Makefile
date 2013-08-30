@@ -1,13 +1,23 @@
-CV_TXT = KartikMistry-CV.txt
+CV = KartikMistry-CV
+CV_MD = KartikMistry-CV.md
 CV_PDF = KartikMistry-CV.pdf
-TXT2PDF = ~/.bin/txt2pdf/txt2pdf.pl
 VI = vim
 
 edit:
 	@$(VI) $(CV_TXT)
 
 pdf:
-	@$(TXT2PDF)
+	pandoc $(CV_MD) -o $(CV).pdf
+
+html:
+	pandoc $(CV_MD) -o $(CV).html
+
+latex:
+	pandoc $(CV_MD) -o $(CV).latex
 
 view:
 	zathura $(CV_PDF)
+
+clean:
+	rm -f *.log
+
