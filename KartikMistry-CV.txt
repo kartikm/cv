@@ -25,7 +25,7 @@ Work Experience
 
  01st May, 2013 - Present:
   <Stealth Startup>
-  Position: Senior Technical Conultant
+  Position: Chief Techonology Officer (Consultant)
   Location: Work from home. Mumbai, India.
 
  08th Oct, 2012 - 07th May, 2013:
@@ -40,7 +40,7 @@ Work Experience
 
  13th July, 2009 - 13th May, 2010:
   Huntington Travel <http://www.flightnetwork.com>
-  Position: Software Developer/System Engineer
+  Position: Software Developer and System Engineer
   Location: Ahmedabad, India.
 
  6th June, 2008 - 10th July, 2009:
@@ -55,12 +55,12 @@ Work Experience
 
  10th May, 2004 - 27th Feb, 2008:
   Magnet Technologies Pvt. Ltd. <http://www.magnettechnologies.com>
-  Position: Team Leader
+  Positions: Linux Software Developer and Team Leader
   Location: Mumbai, India.
 
  30th January, 2004 - 10th May, 2004:
   Magnet Technologies Pvt. Ltd. <http://www.magnettechnologies.com>
-  Position: Internship and Linux trainee
+  Position: Linux Trainee (Internship)
   Location: Mumbai, India.
 
 As Consultant
@@ -76,7 +76,8 @@ Educational Qualifications
  L.D. College of Engineering, Gujarat University, Ahmadabad.
  August, 2004
 
- Bachelor of Science (Physics):
+ Bachelor of Science:
+ Major subject: Physics
  R.R. Mehta College of Science, North Gujarat University, Palanpur.
  April, 2000
 
@@ -149,24 +150,32 @@ Projects
 
 FOSS Projects
 -------------
- Debian: Developer since August 2008, active community member, package
- maintainer, internationalization and localization of various packages and
- installer (D-I) for Gujarati language. Maintainer/co-maintainer of around 45
- packages for Debian project.
+ Debian:
+ * Developer since August 2008.
+ * Active community member, package maintainer.
+ * Translator of Debian Installer for Gujarati language.
+ * Maintainer/co-maintainer of around 45 packages.
+ * QA Page: <http://qa.debian.org/developer.php?login=Kartik+Mistry>
 
- Packages QA Page: <http://qa.debian.org/developer.php?login=Kartik+Mistry>
+ Localization Projects:
+ * Debian-Installer
+ * KDE
+ * Tuxpaint
+ * Wikipedia (MediaWiki, MediaWiki extensions etc)
 
- Localization Projects: Debian-Installer, KDE, Tuxpaint, Wikipedia.
+ Upstreams:
+ * aspell-gu: Gujarati aspell dictionary.
+ * fortune-debian-hints: Fortunes hints for Debian.
+ * Fonts: Aakar/Rekha/Kalapi Gujarati fonts maintainer and upstream.
 
- aspell-gu: Gujarati Aspell Dictionary; Upstream author, maintainer.
+ Wikipedia:
+ * Universal Language Selector (ULS).
+ * jquery.* components of Language Engineering team.
+ * Active editor in Gujarati Wikipedia, Commons and English Wikipedia.
 
- fortune-debian-hints: Fortunes Hints for Debian; Upstream author, maintainer.
-
- Fonts: Aakar/Rekha/Kalapi Gujarati fonts maintainer and upstream.
-
- Other projects: illumos (Bug fixes, documentation),
-                 Wikimedia (Contributor: Gujarati/English Wikipedia, Commons),
-                 SixthSense (Community and project management, code refactoring).
+ SixthSense:
+ * Community and project management.
+ * Code refactoring.
 
 Presentations and Talks
 -----------------------
@@ -192,6 +201,7 @@ Presentations and Talks
  'Various sessions on Debian Development', MiniDebConf, Nov 2011, NMAIT, Nitte.
  'Gujarati and Social Media', Gujarati Sahitya Parishad, Oct 2012, Ahmedabad.
  'Debian Ecosystem', SVIT, January 2013, Bangalore.
+ 'Internationalization and Wikipedia', FUEL-GIST conference, September 2013, Pune.
 
 Published Articles
 ------------------
@@ -225,4 +235,4 @@ Up-to-date copy of this CV is available at,
 Email me for any additional details and other formats of this CV.
 
 Kartik Mistry
-Last Updated: Mon, 15 Jul 2013 20:46:59 +0530
+Last Updated: Sun, 29 Sep 2013 09:39:49 +0530
