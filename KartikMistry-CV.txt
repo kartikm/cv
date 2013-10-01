@@ -102,7 +102,7 @@ Skills
        packaging and internal level details as part of Nexenta/illumos projects.
 
  2. VCSs:
-    Git, Subversion, CVS, Mercurial. Advanced user of all of these. Wrote
+    Git, Subversion, Mercurial. Advanced user of all of these. Wrote
     many automation build and release tasks around them.
 
  3. Programming:
