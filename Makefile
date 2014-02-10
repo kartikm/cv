@@ -1,29 +1,30 @@
-CV = KartikMistry-CV
-CV_MD = KartikMistry-CV.md
-CV_PDF = KartikMistry-CV.pdf
+CV_MD = cv.md
+CV_PDF = cv.pdf
+CV_TXT = cv.txt
 VI = vim
+
+all: index.html pdf txt
 
 release:
 	./update-timestamp.sh
-	make pdf
+	make all
 	make view
 
 edit:
-	@$(VI) $(CV_TXT)
+	@$(VI) $(CV_MD)
 
-pdf:
-	cp $(CV).txt $(CV_MD)
-	pandoc $(CV_MD) -o $(CV).pdf
+index.html: cv.md style.css
+	pandoc --standalone -c style.css --from markdown --to html -o index.html $(CV_MD)
 
-html:
-	pandoc $(CV_MD) -o $(CV).html
+pdf: index.html
+	pandoc --standalone -c style.css --from markdown --to latex -o cv.tex $(CV_MD)
+	pdflatex cv.tex
 
-latex:
-	pandoc $(CV_MD) -o $(CV).latex
+txt: cv.md
+	pandoc --standalone --smart --from markdown --to plain -o $(CV_TXT) $(CV_MD)
 
 view:
 	zathura $(CV_PDF)
 
 clean:
-	rm -f *.log
-
+	rm -f *.log *.html *.pdf *.txt

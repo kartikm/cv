@@ -1,10 +1,9 @@
 Kartik Babulal Mistry
----------------------
+=====================
 
 Contact
 -------
- Email: kartik.mistry@gmail.com,
-        kartik@debian.org
+ Email: kartik.mistry@gmail.com
 
  Mobile: +91 9619061932
 
@@ -22,6 +21,11 @@ Summary
 
 Work Experience
 ===============
+
+ 05th June, 2013 - Present:
+  Wikimedia Foundation.
+  Position: Software Engineer (Language Engineering Team)
+  Location: Work from home. Mumbai, India.
 
  01st May, 2013 - Present:
   <Stealth Startup>
@@ -90,7 +94,7 @@ Educational Qualifications
  April, 1995
 
 Skills
-------
+======
  1. Operating Systems:
     a. Linux: Packaging (Debian and based distributions), localization, system
        administration, configuring and exposure to many fields like programming
@@ -110,8 +114,10 @@ Skills
     work. Experience are in:
     a. C and C++
     b. Python
-    c. Perl
-    d. bash and zsh shell scripting
+    c. PHP
+    d. Javascript
+    e. Perl
+    f. bash/zsh shell scripting
 
  4. Other:
     a. Localization/Internationalization.
@@ -120,33 +126,6 @@ Skills
     d. Debugging: GDB, Solaris (MDB, DTrace).
     e. Fonts: development, bug fixes.
     f. Technical Writing: wrote articles for 'Linux For You' magazine.
-
-Projects
---------
- Utkarsh Gujarati Operating System: <http://www.utkarsh.org>
-  This project was kicked off for Gujarati language localization efforts. We
-  created Live CD, custom installers for end users and special Windows CD
-  containing Free software. The project is now defunct.
-
- GujaratiLexicon: <http://www.gujaratilexicon.com>
-  GujaratiLexicon is an effort to create lexicon resources for Gujarati
-  language. It contains cross platform Gujarati Dictionary (Java) and Gujarati
-  Spell checker (C++/Qt) along with website. The project aims to become
-  'Oxford Dictionary for Gujarati language'.
-
-  The project is continue and provides free download and access of all
-  resources. Currently, mobile applications are in development.
-
- Bhagwadgomandal: <http://www.bhagwadgomandal.com>
-  Bhagwadgomandal is the biggest and the most prolific work in Gujarati.
-  Visionary Maharaj Bhagvadsinhji of Gondal gifted the original Bhagwadgomandal
-  to the world after 26 years of scientific and detailed work. This encyclopedic
-  dictionary is a cultural milestone of Gujarati language.
-
- Nexenta: <http://www.nexenta.org>
-  NexentaOS (known as NCP) was openstorage platform built upon OpenSolaris and
-  Debian. After 3.x releases, it is merged into 'illumian' distribution which
-  is based on 'illumos' project. The project is now defunct.
 
 FOSS Projects
 -------------
@@ -221,7 +200,7 @@ Awards/Certification etc
 References
 ----------
  Available at: https://www.linkedin.com/in/kartikmistry
- More references available upon request.
+ Detailed references available upon request.
 
 Other Links
 -----------
