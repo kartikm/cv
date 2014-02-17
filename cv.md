@@ -202,6 +202,7 @@ Presentations and Talks
  'Gujarati and Social Media', Gujarati Sahitya Parishad, Oct 2012, Ahmedabad.
  'Debian Ecosystem', SVIT, January 2013, Bangalore.
  'Internationalization and Wikipedia', FUEL-GIST conference, September 2013, Pune.
+ 'Contribute to Wikipedia localisation and code using MW:Translate', GNUNify 2014, February 2014, Pune.
 ```
 
 Published Articles
