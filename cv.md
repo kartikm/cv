@@ -28,9 +28,9 @@ Work Experience
   Position: Software Engineer (Language Engineering Team)
   Location: Work from home. Mumbai, India.
 
- 01st May, 2013 - Present:
+ 01st May, 2013 - 01st February, 2014:
   <Stealth Startup>
-  Position: Chief Techonology Officer (Consultant)
+  Position: Consulting Chief Techonology Officer.
   Location: Work from home. Mumbai, India.
 
  08th Oct, 2012 - 07th May, 2013:
@@ -132,23 +132,20 @@ Skills
  Other:
 ```
     a. Localization/Internationalization.
-    b. Office software: OpenOffice.org/Libreoffice.
-    c. Web Technologies: HTML, PHP. Nginx, Apache: setup and configuration.
-    d. Debugging: GDB, Solaris (MDB, DTrace).
-    e. Fonts: development, bug fixes.
-    f. Technical Writing: wrote articles for 'Linux For You' magazine.
+    b. Web Technologies: HTML, Nginx, Apache: setup/configurations.
+    c. Fonts: development, bug fixes.
+    d. Technical Writing: wrote articles for 'Linux For You' magazine.
 ```
 
 FOSS Projects
 -------------
  Debian:
 ```
- * Developer since August 2008.
- * Active community member, package maintainer.
- * Translator of Debian Installer for Gujarati language.
- * Maintainer/co-maintainer of around 45 packages.
- * QA Page: <http://qa.debian.org/developer.php?login=Kartik+Mistry>
-```
+ * Contributor since 2005, Developer since August 2008.
+ * Active community member, package maintainer and application manager (AM).
+ * Translator of Debian Installer for Gujarati.
+ * Maintainer/co-maintainer of around ~42 packages: http://qa.debian.org/developer.php?login=Kartik+Mistry
+ ```
 
  Localization Projects:
 ```
@@ -161,13 +158,13 @@ FOSS Projects
 ```
  * aspell-gu: Gujarati aspell dictionary.
  * fortune-debian-hints: Fortunes hints for Debian.
- * Fonts: Aakar/Rekha/Kalapi Gujarati fonts maintainer and upstream.
+ * Fonts: Aakar/Rekha/Kalapi Gujarati fonts maintainer/upstream.
 ```
  Wikipedia:
 ```
- * Universal Language Selector (ULS).
- * jquery.* components of Language Engineering team.
- * Active editor in Gujarati Wikipedia, Commons and English Wikipedia.
+ * Contributor of Universal Language Selector, Content Translation and other projects.
+ * jquery components of Language Engineering team.
+ * Active editor in Gujarati Wikipedia/Wikisource, Commons and English Wikipedia.
 ```
 
  SixthSense:
@@ -245,4 +242,4 @@ Up-to-date copy of this CV is available at,
 Email me for any additional details and other formats of this CV.
 
 Kartik Mistry
-Last Updated: Sun, 26 Jan 2014 09:09:09 +0530
+Last Updated: Sun, 02 Mar 2014 09:09:09 +0530
