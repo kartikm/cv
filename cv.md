@@ -111,7 +111,8 @@ Skills
        porting, configuring and system administration.
     c. Windows: Familiar up to intermiddiate level.
     d. Solaris: Familiar with basic system administration and tools usages,
-       packaging and internal level details as part of Nexenta/illumos projects.
+       packaging and internal level details as part of Nexenta/illumos
+       projects.
 ```
  VCSs:
 ```
@@ -144,7 +145,8 @@ FOSS Projects
  * Contributor since 2005, Developer since August 2008.
  * Active community member, package maintainer and application manager (AM).
  * Translator of Debian Installer for Gujarati.
- * Maintainer/co-maintainer of around ~42 packages: http://qa.debian.org/developer.php?login=Kartik+Mistry
+ * Maintainer/co-maintainer of around ~42 packages:
+   <http://qa.debian.org/developer.php?login=Kartik+Mistry>
  ```
 
  Localization Projects:
@@ -154,17 +156,21 @@ FOSS Projects
  * Tuxpaint
  * Wikipedia (MediaWiki, MediaWiki extensions etc)
 ```
+
  Upstreams:
 ```
  * aspell-gu: Gujarati aspell dictionary.
  * fortune-debian-hints: Fortunes hints for Debian.
  * Fonts: Aakar/Rekha/Kalapi Gujarati fonts maintainer/upstream.
 ```
+
  Wikipedia:
 ```
- * Contributor of Universal Language Selector, Content Translation and other projects.
+ * Contributor of Universal Language Selector, Content Translation and other
+   projects.
  * jquery components of Language Engineering team.
- * Active editor in Gujarati Wikipedia/Wikisource, Commons and English Wikipedia.
+ * Active editor in Gujarati Wikipedia/Wikisource, Commons and English
+   Wikipedia.
 ```
 
  SixthSense:
@@ -198,8 +204,9 @@ Presentations and Talks
  'Various sessions on Debian Development', MiniDebConf, Nov 2011, NMAIT, Nitte.
  'Gujarati and Social Media', Gujarati Sahitya Parishad, Oct 2012, Ahmedabad.
  'Debian Ecosystem', SVIT, January 2013, Bangalore.
- 'Internationalization and Wikipedia', FUEL-GIST conference, September 2013, Pune.
- 'Contribute to Wikipedia localisation and code using MW:Translate', GNUNify 2014, February 2014, Pune.
+ 'Internationalization and Wikipedia', FUEL-GIST conference, Sep 2013, Pune.
+ 'Contribute to Wikipedia localisation and code using MW:Translate',
+  GNUNify 2014, Feb 2014, Pune.
 ```
 
 Published Articles
@@ -242,4 +249,4 @@ Up-to-date copy of this CV is available at,
 Email me for any additional details and other formats of this CV.
 
 Kartik Mistry
-Last Updated: Sun, 02 Mar 2014 09:09:09 +0530
+Last Updated: Mon, 31 Mar 2014 10:19:19 +0530
