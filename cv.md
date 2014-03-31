@@ -243,10 +243,10 @@ Other Links
  Github: https://github.com/kartikm
 ```
 
-Up-to-date copy of this CV is available at,
- https://raw.github.com/kartikm/cv/master/KartikMistry-CV.txt
+Up-to-date copy of this CV is available at:
+ https://github.com/kartikm/cv/blob/master/cv.md
 
-Email me for any additional details and other formats of this CV.
+Email me for any additional details and other formats.
 
 Kartik Mistry
 Last Updated: Mon, 31 Mar 2014 10:19:19 +0530
