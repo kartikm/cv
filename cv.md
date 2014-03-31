@@ -147,7 +147,7 @@ FOSS Projects
  * Translator of Debian Installer for Gujarati.
  * Maintainer/co-maintainer of around ~42 packages:
    <http://qa.debian.org/developer.php?login=Kartik+Mistry>
- ```
+```
 
  Localization Projects:
 ```
@@ -157,7 +157,7 @@ FOSS Projects
  * Wikipedia (MediaWiki, MediaWiki extensions etc)
 ```
 
- Upstreams:
+ Upstream:
 ```
  * aspell-gu: Gujarati aspell dictionary.
  * fortune-debian-hints: Fortunes hints for Debian.
