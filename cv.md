@@ -30,7 +30,7 @@ Work Experience
 
  01st May, 2013 - 01st February, 2014:
   <Stealth Startup>
-  Position: Consulting Chief Techonology Officer.
+  Position: Consulting Chief Technology Officer.
   Location: Work from home. Mumbai, India.
 
  08th Oct, 2012 - 07th May, 2013:
@@ -107,9 +107,9 @@ Skills
     a. Linux: Packaging (Debian and based distributions), localization, system
        administration, configuring and exposure to many fields like programming
        and porting.
-    b. Mac OS X: Regular user. Familiar up to intermiddiate level. Exposure to
+    b. Mac OS X: Regular user. Familiar up to intermediate level. Exposure to
        porting, configuring and system administration.
-    c. Windows: Familiar up to intermiddiate level.
+    c. Windows: Familiar up to intermediate level.
     d. Solaris: Familiar with basic system administration and tools usages,
        packaging and internal level details as part of Nexenta/illumos
        projects.
@@ -249,4 +249,4 @@ Up-to-date copy of this CV is available at:
 Email me for any additional details and other formats.
 
 Kartik Mistry
-Last Updated: Mon, 31 Mar 2014 10:19:19 +0530
+Last Updated: Mon, 28 Apr 2014 14:34:12 +0530
