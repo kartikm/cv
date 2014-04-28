@@ -28,11 +28,6 @@ Work Experience
   Position: Software Engineer (Language Engineering Team)
   Location: Work from home. Mumbai, India.
 
- 01st May, 2013 - 01st February, 2014:
-  <Stealth Startup>
-  Position: Consulting Chief Technology Officer.
-  Location: Work from home. Mumbai, India.
-
  08th Oct, 2012 - 07th May, 2013:
   credativ software (India) Pvt. Ltd. <http://credativ.in>
   Position: OpenSource Consultant
@@ -69,8 +64,13 @@ Work Experience
   Location: Mumbai, India.
 ```
 
-As a consultant
----------------
+Consultant
+----------
+ 01st May, 2013 - 01st February, 2014:
+  <Stealth Startup>
+  Position: Consulting Chief Technology Officer.
+  Location: Work from home. Mumbai, India.
+
 ```
  01st April, 2012 - 30th Sep, 2012:
   Arnion Technologies Pvt. Ltd.,
@@ -101,7 +101,6 @@ Educational Qualifications
 
 Skills
 ======
-
  Operating Systems:
 ```
     a. Linux: Packaging (Debian and based distributions), localization, system
@@ -205,8 +204,7 @@ Presentations and Talks
  'Gujarati and Social Media', Gujarati Sahitya Parishad, Oct 2012, Ahmedabad.
  'Debian Ecosystem', SVIT, January 2013, Bangalore.
  'Internationalization and Wikipedia', FUEL-GIST conference, Sep 2013, Pune.
- 'Contribute to Wikipedia localisation and code using MW:Translate',
-  GNUNify 2014, Feb 2014, Pune.
+ 'Contribute to Wikipedia localisation and code using MW:Translate', GNUNify 2014, Feb 2014, Pune.
 ```
 
 Published Articles
@@ -243,10 +241,10 @@ Other Links
  Github: https://github.com/kartikm
 ```
 
-Up-to-date copy of this CV is available at:
+Copy of this CV is also available at:
  https://github.com/kartikm/cv/blob/master/cv.md
 
-Email me for any additional details and other formats.
+Email me for any additional details or other formats.
 
 Kartik Mistry
-Last Updated: Mon, 28 Apr 2014 14:34:12 +0530
+Last Updated: Mon, 28 Apr 2014 14:41:38 +0530
