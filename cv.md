@@ -66,12 +66,12 @@ Work Experience
 
 Consultant
 ----------
+```
  01st May, 2013 - 01st February, 2014:
-  <Stealth Startup>
+  TrakInvest.com
   Position: Consulting Chief Technology Officer.
   Location: Work from home. Mumbai, India.
 
-```
  01st April, 2012 - 30th Sep, 2012:
   Arnion Technologies Pvt. Ltd.,
   Position: Consultant software developer
