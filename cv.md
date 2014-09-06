@@ -205,6 +205,7 @@ Presentations and Talks
  'Debian Ecosystem', SVIT, January 2013, Bangalore.
  'Internationalization and Wikipedia', FUEL-GIST conference, Sep 2013, Pune.
  'Contribute to Wikipedia localisation and code using MW:Translate', GNUNify, Feb 2014, Pune.
+ 'Testing internationalized applications', Wikimania, Aug 2014, London.
 ```
 
 Published Articles
@@ -247,4 +248,4 @@ Copy of this CV is also available at:
 Email me for any additional details or other formats.
 
 Kartik Mistry
-Last Updated: Mon, 18 Aug 2014 11:03:39 +0530
+Last Updated: Fri, 29 Aug 2014 12:15:56 +0530
