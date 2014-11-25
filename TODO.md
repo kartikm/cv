@@ -11,9 +11,9 @@ CV
 - [ ] Add <real> references.
 - [ ] Add all projects and arrange Projects section or just remove it.
 - [ ] Disable LinkedIn account.
-- [x] joblint (https://github.com/rowanmanning/joblint.org) free
+- [x] joblint free <https://github.com/rowanmanning/joblint.org>.
 
 Misc
 ----
-- [ ] Follow: http://steve-yegge.blogspot.com/2007/09/ten-tips-for-slightly-less-awful-resume.html
-- [ ] (Do not) Add cover letter.
+- [ ] <Do not> Add cover letter.
+- [ ] Follow <http://steve-yegge.blogspot.com/2007/09/ten-tips-for-slightly-less-awful-resume.html>
