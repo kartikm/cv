@@ -8,6 +8,8 @@ Contact
 
 > Mobile: +91 9619061932
 
+> GPG Key: 6B63 1B5E F554 AF6B 1196  6292 02C1 D3F2 783A A4DE
+
 Career Objective
 ----------------
 > To work on challenging projects leading to expansion of my capabilities as
@@ -24,42 +26,42 @@ Work Experience
 ===============
 ```
  05th June, 2013 - Present:
-  Wikimedia Foundation.
+  Wikimedia Foundation <https://wikimediafoundation.org>
   Position: Software Engineer (Language Engineering Team)
   Location: Work from home. Mumbai, India.
 
  08th Oct, 2012 - 07th May, 2013:
-  credativ software (India) Pvt. Ltd. <http://credativ.in>
+  credativ software (India) Pvt. Ltd. <https://credativ.in>
   Position: OpenSource Consultant
   Location: Bangalore, India.
 
  15th May, 2010 - 30th Sep, 2012:
-  Nexenta Systems Inc., USA. <http://www.nexenta.com>
+  Nexenta Systems Inc., USA. <https://nexenta.com>
   Position: Consultant Software Developer
   Location: Work from home. Ahmedabad, India.
 
  13th July, 2009 - 13th May, 2010:
-  Huntington Travel <http://www.flightnetwork.com>
+  Huntington Travel <https://flightnetwork.com>
   Position: Software Developer and System Engineer
   Location: Ahmedabad, India.
 
  6th June, 2008 - 10th July, 2009:
-  Magnet Technologies Pvt. Ltd. <http://www.magnettechnologies.com>
+  Magnet Technologies Pvt. Ltd. <https://magnettechnologies.com>
   Position: Assistant Project Manager
   Location: Ahmedabad, India.
 
  29th Feb, 2008 - 23rd May, 2008:
-  Comat Technologies Pvt. Ltd. <http://www.comat.com>
+  Comat Technologies Pvt. Ltd. <https://comat.com>
   Position: Release Manager
   Location: Bangalore, India.
 
  10th May, 2004 - 27th Feb, 2008:
-  Magnet Technologies Pvt. Ltd. <http://www.magnettechnologies.com>
+  Magnet Technologies Pvt. Ltd. <https://magnettechnologies.com>
   Positions: Linux Software Developer and Team Leader
   Location: Mumbai, India.
 
  30th January, 2004 - 10th May, 2004:
-  Magnet Technologies Pvt. Ltd. <http://www.magnettechnologies.com>
+  Magnet Technologies Pvt. Ltd. <https://magnettechnologies.com>
   Position: Linux Trainee (Internship)
   Location: Mumbai, India.
 ```
@@ -224,28 +226,28 @@ Awards/Certification etc
 ------------------------
 ```
  Employee of the month: November 2006, October 2008.
- Sarai FLOSS Fellowship: 2008, http://www.sarai.net/fellowships/floss
+ Sarai FLOSS Fellowship: 2008, <https://www.sarai.net/fellowships/floss>
 ```
 
 References
 ----------
 ```
- Available at: https://www.linkedin.com/in/kartikmistry
+ Available at: <https://www.linkedin.com/in/kartikmistry>
  Detailed references available upon request.
 ```
 
 Other Links
 -----------
 ```
- English Blog: http://0x1f1f.wordpress.com
- Gujarati Blog: http://kartikm.wordpress.com
- Github: https://github.com/kartikm
+ English Blog: <https://0x1f1f.wordpress.com>
+ Gujarati Blog: <https://kartikm.wordpress.com>
+ Github: <https://github.com/kartikm>
 ```
 
 Copy of this CV is also available at:
- https://github.com/kartikm/cv/blob/master/cv.md
+ <https://github.com/kartikm/cv/blob/master/cv.md>
 
 Email me for any additional details or other formats.
 
 Kartik Mistry
-Last Updated: Fri, 29 Aug 2014 12:15:56 +0530
+Last Updated: Tue, 25 Nov 2014 09:05:36 +0530
