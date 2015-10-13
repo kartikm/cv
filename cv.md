@@ -174,14 +174,8 @@ FOSS Projects
    Wikipedia.
 ```
 
- SixthSense:
-```
- * Community and project management.
- * Code refactoring.
-```
-
-Presentations and Talks
------------------------
+Talks
+-----
 ```
  'Utkarsh and Gujarati Localization' Indic Developer Meet 2004, HBCSE, Mumbai.
  'Mono and Localization' Indic Developer Meet 2005, HBCSE, Mumbai.
@@ -207,7 +201,8 @@ Presentations and Talks
  'Debian Ecosystem', SVIT, January 2013, Bangalore.
  'Internationalization and Wikipedia', FUEL-GIST conference, Sep 2013, Pune.
  'Contribute to Wikipedia localisation and code using MW:Translate', GNUNify, Feb 2014, Pune.
- 'Testing internationalized applications', Wikimania, Aug 2014, London.
+ 'Testing internationalized applications', Wikimania 2014, London.
+ 'Content Translation: What's running under the hood', Wikimania 2015, Mexico City.
 ```
 
 Published Articles
@@ -250,4 +245,4 @@ Copy of this CV is also available at:
 Email me for any additional details or other formats.
 
 Kartik Mistry
-Last Updated: Tue, 25 Nov 2014 09:05:36 +0530
+Last Updated: Mon, 12 Oct 2015 19:00:53 +0530
