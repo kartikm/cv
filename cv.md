@@ -245,4 +245,4 @@ Copy of this CV is also available at:
 Email me for any additional details or other formats.
 
 Kartik Mistry
-Last Updated: Tue, 20 Oct 2015 09:08:29 +0530
+Last Updated: Tue, 25 Oct 2016 19:21:58 +0530
