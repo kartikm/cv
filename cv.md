@@ -105,7 +105,7 @@ Skills
 ======
  Operating Systems:
 ```
-    a. Linux: Packaging (Debian and derivate distributions), localization,
+    a. Linux: Packaging (Debian and derivative distributions), localization,
        system administration, configuring and exposure to many fields like
        programming and porting.
     b. Mac OS X: Regular user. Familiar up to intermediate level. Exposure to
