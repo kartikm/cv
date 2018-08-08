@@ -27,4 +27,4 @@ view:
 	zathura $(CV_PDF)
 
 clean:
-	rm -f *.log *.html *.pdf *.txt
+	rm -f *.log *.out *.aux *.tex *.html
