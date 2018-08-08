@@ -17,17 +17,17 @@ Career Objective
 
 Summary
 -------
-> Close to a decade of experience in system and network administration,
+> More than 14 years of experience in system and network administration,
 > software engineering with small to large teams, packaging and porting of
 > software tools and applications and internationalization and localization
-> efforts.
+> areas.
 
 Work Experience
 ===============
 ```
  05th June, 2013 - Present:
   Wikimedia Foundation <https://wikimediafoundation.org>
-  Position: Software Engineer (Language Engineering Team)
+  Position: Software Engineer (Language Team)
   Location: Work from home. Mumbai, India.
 
  08th Oct, 2012 - 07th May, 2013:
@@ -105,9 +105,9 @@ Skills
 ======
  Operating Systems:
 ```
-    a. Linux: Packaging (Debian and based distributions), localization, system
-       administration, configuring and exposure to many fields like programming
-       and porting.
+    a. Linux: Packaging (Debian and derivate distributions), localization,
+       system administration, configuring and exposure to many fields like
+       programming and porting.
     b. Mac OS X: Regular user. Familiar up to intermediate level. Exposure to
        porting, configuring and system administration.
     c. Windows: Familiar up to intermediate level.
@@ -136,7 +136,7 @@ Skills
     a. Localization/Internationalization.
     b. Web Technologies: HTML, Nginx, Apache: setup/configurations.
     c. Fonts: development, bug fixes.
-    d. Technical Writing: wrote articles for 'Linux For You' magazine.
+    d. Technical writing.
 ```
 
 FOSS Projects
@@ -146,7 +146,7 @@ FOSS Projects
  * Contributor since 2005, Developer since August 2008.
  * Active community member, package maintainer and application manager (AM).
  * Translator of Debian Installer for Gujarati.
- * Maintainer/co-maintainer of around ~42 packages:
+ * Maintainer/co-maintainer of 120+ Debian packages:
    <http://qa.debian.org/developer.php?login=Kartik+Mistry>
 ```
 
@@ -203,6 +203,7 @@ Talks
  'Contribute to Wikipedia localisation and code using MW:Translate', GNUNify, Feb 2014, Pune.
  'Testing internationalized applications', Wikimania 2014, London.
  'Content Translation: What's running under the hood', Wikimania 2015, Mexico City.
+ 'How Debian helped in translation of thousands of Wikipedia articles, DebConf 18, Taiwan.
 ```
 
 Published Articles
@@ -234,7 +235,6 @@ References
 Other Links
 -----------
 ```
- English Blog: <https://0x1f1f.wordpress.com>
  Gujarati Blog: <https://kartikm.wordpress.com>
  Github: <https://github.com/kartikm>
 ```
@@ -245,4 +245,4 @@ Copy of this CV is also available at:
 Email me for any additional details or other formats.
 
 Kartik Mistry
-Last Updated: Tue, 25 Oct 2016 19:21:58 +0530
+Last Updated: Wed, 08 Aug 2018 16:54:51 +0530
