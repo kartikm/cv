@@ -17,15 +17,19 @@ Career Objective
 
 Summary
 -------
-> More than 14 years of experience in system and network administration,
+> More than 16 years of experience in system and network administration,
 > software engineering with small to large teams, packaging and porting of
-> software tools and applications and internationalization and localization
-> areas.
+> software tools, deployment and applications and internationalization and
+> localization areas.
 
 Work Experience
 ===============
 ```
- 05th June, 2013 - Present:
+ 01st July, 2020 - Present:
+  Wikimedia Foundation <https://wikimediafoundation.org>
+  Position: Senior Software Engineer (Language Team)
+
+ 03rd June, 2013 - 30th June, 2020:
   Wikimedia Foundation <https://wikimediafoundation.org>
   Position: Software Engineer (Language Team)
   Location: Work from home. Mumbai, India.
@@ -200,10 +204,11 @@ Talks
  'Gujarati and Social Media', Gujarati Sahitya Parishad, Oct 2012, Ahmedabad.
  'Debian Ecosystem', SVIT, January 2013, Bangalore.
  'Internationalization and Wikipedia', FUEL-GIST conference, Sep 2013, Pune.
- 'Contribute to Wikipedia localisation and code using MW:Translate', GNUNify, Feb 2014, Pune.
+ 'Contribute to Wikipedia localisation/code using MW:Translate', GNUNify '14.
  'Testing internationalized applications', Wikimania 2014, London.
- 'Content Translation: What's running under the hood', Wikimania 2015, Mexico City.
- 'How Debian helped in translation of thousands of Wikipedia articles, DebConf 18, Taiwan.
+ 'Content Translation: What's running under the hood', Wikimania 2015, Mexico.
+ 'How Debian helped in translation of thousands of Wikipedia articles',
+  DebConf18, Taiwan.
 ```
 
 Published Articles
@@ -239,10 +244,6 @@ Other Links
  Github: <https://github.com/kartikm>
 ```
 
-Copy of this CV is also available at:
- <https://github.com/kartikm/cv/blob/master/cv.md>
-
-Email me for any additional details or other formats.
-
-Kartik Mistry
-Last Updated: Wed, 08 Aug 2018 16:54:51 +0530
+```
+ Last Updated: Tue, 30 Jun 2020 13:55:30 +0530
+```
