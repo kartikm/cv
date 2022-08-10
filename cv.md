@@ -6,8 +6,6 @@ Contact
 
 > Email: kartik.mistry@gmail.com
 
-> Mobile: +91 9619061932
-
 > GPG Key: 6B63 1B5E F554 AF6B 1196  6292 02C1 D3F2 783A A4DE
 
 Career Objective
