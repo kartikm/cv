@@ -23,7 +23,11 @@ Summary
 Work Experience
 ===============
 ```
- 01st July, 2020 - Present:
+ 01st January 2023 - Present:
+  Wikimedia Foundation <https://wikimediafoundation.org>
+  Position: Staff Software Engineer (Language Team)
+
+ 01st July, 2020 - 31st December 2022:
   Wikimedia Foundation <https://wikimediafoundation.org>
   Position: Senior Software Engineer (Language Team)
 
@@ -243,5 +247,5 @@ Other Links
 ```
 
 ```
- Last Updated: Mon, 06 Sep 2021 09:25:30 +0530
+ Last Updated: Wed, 08 March 2023
 ```
