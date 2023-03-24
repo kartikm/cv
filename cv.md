@@ -153,7 +153,7 @@ FOSS Projects
  * Active community member, package maintainer and application manager (AM).
  * Translator of Debian Installer for Gujarati.
  * Maintainer/co-maintainer of 120+ Debian packages:
-   <http://qa.debian.org/developer.php?login=Kartik+Mistry>
+   <https://qa.debian.org/developer.php?login=Kartik+Mistry>
 ```
 
  Localization Projects:
@@ -247,5 +247,5 @@ Other Links
 ```
 
 ```
- Last Updated: Wed, 08 March 2023
+ Last Updated: Fri, 24 March 2023
 ```
