@@ -241,8 +241,9 @@ References
 Other Links
 -----------
 ```
- Gujarati Blog: <https://kartikm.wordpress.com>
  Github: <https://github.com/kartikm>
+ Debian Gitlab (Salsa): <https://salsa.debian.org/kartik>
+ Gujarati Blog: <https://kartikm.wordpress.com>
 ```
 
 ```
