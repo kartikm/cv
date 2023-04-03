@@ -22,20 +22,20 @@ Summary
 Work Experience
 ===============
 ```
- 01st January 2023 - Present:
+ 1st January 2023 - Present:
   Wikimedia Foundation <https://wikimediafoundation.org>
   Position: Staff Software Engineer (Language Team)
 
- 01st July, 2020 - 31st December 2022:
+ 1st July, 2020 - 31st December 2022:
   Wikimedia Foundation <https://wikimediafoundation.org>
   Position: Senior Software Engineer (Language Team)
 
- 03rd June, 2013 - 30th June, 2020:
+ 3rd June, 2013 - 30th June, 2020:
   Wikimedia Foundation <https://wikimediafoundation.org>
   Position: Software Engineer (Language Team)
   Location: Work from home. Mumbai, India.
 
- 08th Oct, 2012 - 07th May, 2013:
+ 8th Oct, 2012 - 7th May, 2013:
   credativ software (India) Pvt. Ltd. <https://credativ.in>
   Position: OpenSource Consultant
   Location: Bangalore, India.
@@ -74,12 +74,12 @@ Work Experience
 Consultant
 ----------
 ```
- 01st May, 2013 - 01st February, 2014:
+ 1st May, 2013 - 1st February, 2014:
   TrakInvest.com
   Position: Consulting Chief Technology Officer.
   Location: Work from home. Mumbai, India.
 
- 01st April, 2012 - 30th Sep, 2012:
+ 1st April, 2012 - 30th Sep, 2012:
   Arnion Technologies Pvt. Ltd.,
   Position: Consultant software developer
   Location: Ahmedabad, India.
