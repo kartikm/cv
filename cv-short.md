@@ -7,7 +7,7 @@ Contact
 
 Summary
 -------
-> More than 16 years of experience in system and network administration,
+> More than 20 years of experience in system and network administration,
 > software engineering with small to large teams, packaging and porting of
 > software tools, deployment and applications and internationalization and
 > localization.
@@ -17,11 +17,16 @@ Experience
 ```
  1st January 2023 - Present:
   Wikimedia Foundation <https://wikimediafoundation.org>
-  Position: Staff Software Engineer (Language Team)
+  Position: Staff Software Engineer, Language and Product Localization Team
 
  1st July, 2020 - 31st December 2022:
   Wikimedia Foundation <https://wikimediafoundation.org>
-  Position: Senior Software Engineer (Language Team)
+  Position: Senior Software Engineer, Language Team
+
+ 3rd June, 2013 - 30th June, 2020:
+  Wikimedia Foundation <https://wikimediafoundation.org>
+  Position: Software Engineer, Language Team
+  Location: Mumbai, India.
 
  8th Oct, 2012 - 07th May, 2013:
   credativ software (India) Pvt. Ltd. <https://credativ.in>
@@ -182,5 +187,5 @@ Other Links
 ```
 
 ```
- Last Updated: Mon, 03 Apr 2023 19:47:30 +0530
+ Last Updated: Sun, 01 Nov 2026 19:30:51 +0530
 ```
